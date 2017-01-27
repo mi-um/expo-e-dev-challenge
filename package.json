@@ -1,0 +1,23 @@
+{
+  "name": "expo-e-dev-challenge",
+  "version": "1.0.0",
+  "description": "We're hoping to see how you approach a challenge and what sort of standards you use in your code so please feel free to be as creative as you like.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ee-jake-d/expo-e-dev-challenge.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ee-jake-d/expo-e-dev-challenge/issues"
+  },
+  "homepage": "https://github.com/ee-jake-d/expo-e-dev-challenge#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
